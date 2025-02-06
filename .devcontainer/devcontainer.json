@@ -38,7 +38,8 @@
   "vscode": {
     "extensions": [
       "PKief.material-icon-theme",
-      "zhuangtongfa.Material-theme"
+      "zhuangtongfa.Material-theme",
+      "DiemasMichiels.emulate"
     ]
   }
 }
